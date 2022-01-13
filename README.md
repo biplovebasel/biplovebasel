@@ -1,1 +1,5 @@
-<script src="https://gist.github.com/biplovebasel/6b38fc48e5f6c9b50870a16210e68136.js"></script>
+# Biplove Basel-aka Neo #
+**Student of `Masters` in `Electronics and Communication Engineering`.**
+**Interested in `Data Science` and `Machine Learning`.**
+
+---
